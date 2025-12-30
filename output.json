@@ -1,0 +1,25 @@
+{
+    "merchant_name": "Viettel",
+    "merchant_address": "Số 1 Trần Hữu Dực, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Thành phố Hà Nội",
+    "invoice_id": "S3C2VTIVE 0000001",
+    "date": "2024-04-02",
+    "subtotal": 17990000.0,
+    "tax_amount": 0.0,
+    "total_amount": 17990000.0,
+    "currency": "VND",
+    "items": [
+        {
+            "name": "Samsung Galaxy Note 10 Plus",
+            "quantity": 1.0,
+            "unit_price": 8995000.0,
+            "total_price": 8995000.0
+        },
+        {
+            "name": "Samsung Galaxy Note 10",
+            "quantity": 1.0,
+            "unit_price": 8995000.0,
+            "total_price": 8995000.0
+        }
+    ],
+    "category": "Electronics"
+}
